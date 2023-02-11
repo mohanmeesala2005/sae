@@ -1,0 +1,76 @@
+.navbar
+{
+    opacity: 75%;
+    background-color: black;
+}
+.item
+{
+  justify-content: end;
+}
+.body
+{
+    background-color: rgb(49, 41, 41);
+}
+
+.logo2
+{
+  margin-top: 20px;
+}
+.button{
+  text-decoration: none;
+}
+  .button1 {
+    background-color: #FF0000; 
+    color: white; 
+    border: 2px solid #000000;
+    border-radius: 15px;
+    
+    text-transform: none;
+  }
+  
+  .button1:hover {
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    text-decoration: none;
+  }
+.regd
+{
+  margin-top: 50px;
+  font-size: 20px;
+  text-align: center;
+  justify-content: center;
+}
+.logo
+{
+  margin-top: 120px;
+}
+.title
+{
+  font-size: 40px;
+    color: white;
+    margin-bottom: 10px;
+}
+.foot-link
+{
+  text-decoration: none;
+  color: #FF0000;
+  font-size: large;
+  padding: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.head
+{
+  margin-top: 50px;
+}
+
+.social__t
+{
+  margin-right: 20px;
+  filter: invert(100%) sepia(0%) saturate(7500%) hue-rotate(301deg) brightness(113%) contrast(100%);
+}
+.social__t:hover
+{
+  filter: invert(33%) sepia(19%) saturate(4048%) hue-rotate(330deg) brightness(96%) contrast(99%);
+}
